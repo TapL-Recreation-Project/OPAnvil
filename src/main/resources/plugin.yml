@@ -1,0 +1,9 @@
+name: OPAnvil
+version: ${project.version}
+main: me.swipez.opanvil.OPAnvil
+api-version: 1.16
+authors: [ notnotnotswipez ]
+commands:
+  testgui:
+    usage: /testgui <level> <storeditems>
+    description: Opens gui with stats
